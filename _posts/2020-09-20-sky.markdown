@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Bầu trời"
+date:   2020-09-20 22:09:40 +0700
+categories: jekyll update
+---
+Bầu trời là một phần của khí quyển hoặc của không gian, được quan sát từ bề mặt của các thiên thể. Bầu trời nhìn từ Trái Đất thường có màu xanh lơ vào ban ngày do sự tán xạ bức xạ Mặt Trời của các thành phần trong khí quyển. Vào ban đêm, trời có màu đen với các ngôi sao rải rác.
+
+Vào ban ngày, ta có thể thấy Mặt Trời, trừ khi bị mây phủ. Vào ban đêm hoặc khi chạng vạng, ta có thể quan sát được Mặt Trăng, các hành tinh và các ngôi sao. Một số hiện tượng tự nhiên xuất hiện trên bầu trời như mây, cầu vồng, và cực quang vào ban đêm.
